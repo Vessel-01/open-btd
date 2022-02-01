@@ -1,1 +1,3 @@
-print ("Hello World!")
+function 
+  print ("Hello World!")
+end
