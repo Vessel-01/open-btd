@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/samin/huhi.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/samin/untitled btd game.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/samin/untitled.tmx": {
+            "scale": 0.12110148514851485,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1585.4471129279514,
+                "y": 1597.8334184977007
+            }
+        },
+        "btd tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 2.1783203125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 135.8845153770286,
+                "y": 126.01452523984578
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/samin/OneDrive/Desktop/Stuff/Atom Files/Stuff/random pixel art/~#untitled td game#~",
+    "map.height": 16,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 16,
+    "openFiles": [
+        "untitled.tmx",
+        "btd tileset.tsx"
+    ],
+    "project": "btd.tiled-project",
+    "recentFiles": [
+        "btd tileset.tsx",
+        "untitled.tmx",
+        "C:/Users/samin/untitled btd game.tsx",
+        "C:/Users/samin/huhi.tsx",
+        "C:/Users/samin/untitled.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
