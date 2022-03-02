@@ -7,4 +7,4 @@ Working on: adding a folder for .ase files (for Aseprite and Libresprite)
 
 	-Everything is subject to change
 
-	-Contribute if you want, code should be in C#
+	-Contribute if you want, code should be in C# (might change the language actually)
